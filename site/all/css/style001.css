@@ -46,10 +46,10 @@ body{
     left: 0px;
   }
   #slide-2:target ~ .image-container {
-    left: -1200px;
+    left: -1250px;
   }
   #slide-3:target ~ .image-container {
-    left: -2400px;
+    left: -2500px;
   }
   .buttons {
     position: relative;
